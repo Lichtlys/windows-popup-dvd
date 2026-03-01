@@ -1,0 +1,1 @@
+This is the browser dvd file, now working without browser, if youre just tired and wanna stare at something listening to music u can use this, just dont make the mistake of closing the .exe file or the fun will be gone.
